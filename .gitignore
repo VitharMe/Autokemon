@@ -1,0 +1,13 @@
+screenshots/*
+.red.py.swp
+detect.py
+detect2.py
+red.gb
+red.gb.ram
+red.gb.state
+red.sav
+rename.py
+second.py
+start.sh
+test.py
+!screenshots/.gitkeep 
